@@ -18,5 +18,16 @@ Ce dashboard est pensé pour être utilisé par un client fictif propriétaire d
 - Le fichier "Mesures et formules projet PowerBI.xls" est la liste des différentes metrics utilisées sur le projet avec leurs définitions et leurs formules DAX.
 - Il y a 3 fichiers .png illustrant les 3 pages du projet dans le dossier "img".
 
+## Création du projet
+
+Après la récupération des données la 1ère étape a été de définir les KPI et metrics clés qui allaient figurer dans le dashboard.
+Les metrics clés choisis sont ceux qui sont en géneral le plus utilisés dans l'industrie hotellière.
+Ensuite il a fallu définir les données intermédiaires à calculer afin de produire ces KPI / metrics clés.
+
+Les données intermédiaires, metrics clés et KPI sont listés dans le documents "Mesures et formules projet PowerBI.xls" avec leurs définitions et leurs formules
+
 ## Présentation du projet
+ 
+Le dashboard comporte 3 pages :
+La homePage présente des chiffres clés et des graphiques pour évaluer la tendances de certaines données
 ![Cover](https://github.com/yoannGL/PowerBI-Dashboard-project/blob/main/img/home%20page.png)
