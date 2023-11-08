@@ -33,8 +33,14 @@ La homePage présente des chiffres clés tel que le revenu global, l'occupation,
 2 bandeaux de filtres sont présents : 
 -  En haut à gauche, des filtres sur les villes, type de chambre et hôtels
 -  En haut à droite, des filtres temporels sur les mois et/ou les semaines séléctionnées
+
+
 ![Cover](https://github.com/yoannGL/PowerBI-Dashboard-project/blob/main/img/home%20page.png)
 
+
+
 Les pages 1 et 2 permettent de faire une analyse plus spécifique grâce au bandeau de plusieurs filtres sur le côté gauche
+
+
 ![Cover](https://github.com/yoannGL/PowerBI-Dashboard-project/blob/main/img/page%201.png)
 ![Cover](https://github.com/yoannGL/PowerBI-Dashboard-project/blob/main/img/page%202.png)
